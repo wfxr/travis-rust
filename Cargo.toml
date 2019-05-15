@@ -1,5 +1,5 @@
 [package]
-name = "rust-travis"
+name = "travis-rust"
 version = "0.1.0"
 authors = ["Wenxuan <wenxuangm@gmail.com>"]
 edition = "2018"
